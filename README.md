@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love hiking and have explored some of the highest peaks in my country!
 
 ## Projects
-- [Project 1]((https://tanlovmedia.uz/)): A web application for managing personal finance, built with PHP Laravel.
+- [Project 1]([https://tanlovmedia.uz/]): A web application for managing personal finance, built with PHP Laravel.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
