@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile Picture](https://github.com/muzaffaar.png)
 <!--
 **muzaffaar/muzaffaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
