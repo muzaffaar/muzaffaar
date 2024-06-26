@@ -4,11 +4,11 @@
 
 ## About Me
 - 🔭 I’m currently working on developing innovative web applications and exploring machine learning projects.
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue, as well as diving deeper into AI and machine learning with Python.
+- 🌱 I’m currently learning advanced PHP frameworks like Symfony and Laravel, as well as diving deeper into C programming.
 - 👯 I’m looking to collaborate on open-source projects related to web development, AI, and machine learning.
 - 🤔 I’m looking for help with understanding and implementing reinforcement learning algorithms.
-- 💬 Ask me about web development, Python programming, or how to get started with machine learning.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername)
+- 💬 Ask me about web development, PHP programming, or how to get started with data structures.
+- 📫 How to reach me: [Email](mailto:muzaffart949@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and have explored some of the highest peaks in my country!
 
