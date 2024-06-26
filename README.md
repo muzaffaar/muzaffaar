@@ -1,8 +1,6 @@
 
 ![Profile Picture](https://github.com/muzaffaar.png)
-
-                  # Hi there 👋, I'm Muzaffar Tursunov from Uzbekistan!
-
+<h1 align="center">Hi there 👋, I'm Muzaffar Tursunov from Uzbekistan!</h1>
 ## About Me
 - 🔭 I’m currently working on developing innovative web applications and exploring machine learning projects.
 - 🌱 I’m currently learning advanced PHP frameworks like Symfony and Laravel, as well as diving deeper into C programming.
