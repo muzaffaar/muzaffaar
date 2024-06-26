@@ -1,4 +1,4 @@
-# Hi there, I'm Muzaffar! 👋
+# Hi there, I'm Muzaffar Tursunov from Uzbekistan! 👋
 
 ![Profile Picture](https://github.com/muzaffaar.png)
 
