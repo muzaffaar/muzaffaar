@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/muzaffaar.png" alt="Profile Picture" width="200">
+  <img src="https://github.com/muzaffaar.png" alt="Profile Picture" width="200" style="width: 200px; height: 200px; border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Muzaffar Tursunov from Uzbekistan!</h1>
