@@ -1,6 +1,6 @@
 # Hi there, I'm Muzaffar! 👋
 
-![Profile Picture](https://github.com/yourusername.png)
+![Profile Picture](https://github.com/muzaffaar.png)
 
 ## About Me
 - 🔭 I’m currently working on developing innovative web applications and exploring machine learning projects.
