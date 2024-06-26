@@ -13,8 +13,7 @@
 - ⚡ Fun fact: I love hiking and have explored some of the highest peaks in my country!
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1): A web application for managing personal finance, built with React and Node.js.
-- [Project 2](https://github.com/yourusername/project2): An AI-powered chatbot that provides customer support, developed using Python and TensorFlow.
+- [Project 1]((https://tanlovmedia.uz/)): A web application for managing personal finance, built with PHP Laravel.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
