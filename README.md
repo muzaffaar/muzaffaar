@@ -16,11 +16,11 @@
 - [Project 1]([https://tanlovmedia.uz/]): A web application for managing personal finance, built with PHP Laravel.
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/muzaffaar)
+- [Twitter](https://twitter.com/muzaffaar)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzaffaar&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffaar&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzaffaar)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=muzaffaar)
